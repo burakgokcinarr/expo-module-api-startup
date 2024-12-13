@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "rn-expo-custom-module-test",
+    "slug": "rn-expo-custom-module-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.burak717171.rnexpocustommoduletest"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.burak717171.rnexpocustommoduletest"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8d546075-03f5-4389-8d09-016a083b8b13"
+      }
+    },
+    "owner": "burak717171"
+  }
+}
